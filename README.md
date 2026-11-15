@@ -1,0 +1,1 @@
+# logistpulse-core-state-strategy-observer.
